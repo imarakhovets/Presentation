@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/LogoCentral/Slide-LogoCentral.unity
+    guid: 19257c4d45b394bc0b076ab495cd8257
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/DeepBlueBG(Blank)/Slide-DeepBlueBG.unity
+    guid: bc9f66b7a3f564f0ea8d0719ba359b4c
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/HeaderCentral/Slide-HeaderCentral.unity
+    guid: 9211f6193b28e46efbdb101263915b26
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/DataNumberCentral/Slide-DataNumberCentral.unity
+    guid: 556090e746aa84b43a70c21cef0765be
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/DataNumbersSideBySide/Slide-DataNumbersSideBySide.unity
+    guid: b5d64a5b6cdbc4d4e8f65f9614f26bb4
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/BulletPointTextLeftAlignment/Slide-BulletPointTextLeftAlignment.unity
+    guid: 26f45122a5d044eb790f20712d10e7af
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/MeshObjectInFrontOfSlide/Slide-MeshObjectInFrontOfSlide.unity
+    guid: a411f5f13be3a4cf3bfa051e5cf82022
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/HeaderCentralWithParagraph/Slide-HeaderCentralWithParagraph.unity
+    guid: 044793db27449469d8786db0e0406128
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/ParagraphsSideBySide/Slide-ParagraphsSideBySide.unity
+    guid: fb8e5e762a3024fb7abc99d1a6062970
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/PartnerSlide/Slide-PartnerSlide.unity
+    guid: f96d2ad34d0594ba29686622a8e789b2
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/RenderTextureInSlide/Slide-RenderTextureInSlide.unity
+    guid: 4350ff9038d5649a6b970ecb6a528ddd
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/ServicesIn3Column/Slide-ServicesIn3Columns.unity
+    guid: b54e1dadfcedf4e48af2de6b86ea5c89
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/VerticalAboveServicesAnd3Rows/Slide-ServicesSlide.unity
+    guid: fd450e0b0c7b04bbe8a0f8c2076b0fe8
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/HalfContentLeft/Slide-HalfContentLeft.unity
+    guid: 772c063127809477a8ffc21736aa0310
+  - enabled: 1
+    path: Assets/Unity/Template Slides/Dark Theme/UnityColorBG/Slide-UnityColorBG.unity
+    guid: 9fe8fa2d5b60e448da99dbebbba92c2e

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Unity/Template Slides/Dark Theme/LogoCentral/Slide-LogoCentral.unity
+  isLoaded: 1
+  isActive: 1
